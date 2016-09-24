@@ -1,4 +1,4 @@
 # Hackerrank
 HackerRanker Solutions sorted by categories.
 
-All solutions are written by me. 
+All solutions written by me. 
