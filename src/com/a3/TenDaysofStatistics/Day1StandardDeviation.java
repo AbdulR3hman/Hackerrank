@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.Collections;
 
 /**
  * Created by alab on 29/09/2016.
@@ -29,7 +28,7 @@ public class Day1StandardDeviation {
         mean = total/len;
 
         //Although not that important, just for good practice.
-        Collections.sort(x);
+        //Collections.sort(x);
 
         //Calc squared distance from the mean
         for (int i = 0; i < len; i++)
