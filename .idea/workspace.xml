@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43e971bc-0f09-4251-bdc6-97347c87c9a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/a3/ExceptionHandling/JavaExceptionHandlingTryCatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/a3/ExceptionHandling/MyCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hackerrank.iws" />
@@ -46,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaExceptionHandlingTryCatch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaExceptionHandlingTryCatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/a3/ExceptionHandling/JavaExceptionHandlingTryCatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/a3/ExceptionHandling/MyCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -108,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/com/a3/TenDaysofStatistics/Day1InterQuartileRange.java" />
         <option value="$PROJECT_DIR$/src/com/a3/TenDaysofStatistics/Day1StandardDeviation.java" />
         <option value="$PROJECT_DIR$/src/com/a3/ExceptionHandling/JavaExceptionHandlingTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/com/a3/ExceptionHandling/MyCalculator.java" />
       </list>
     </option>
   </component>
@@ -533,16 +544,16 @@
       <workItem from="1474721859618" duration="735000" />
       <workItem from="1474794952021" duration="885000" />
       <workItem from="1475140094965" duration="5194000" />
-      <workItem from="1475247956576" duration="810000" />
+      <workItem from="1475247956576" duration="1434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8329000" />
+    <option name="totallyTimeSpent" value="8953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1916" y="-4" width="1928" height="1088" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -552,7 +563,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27921405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37849018" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37849018" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,6 +779,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/a3/ExceptionHandling/MyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
