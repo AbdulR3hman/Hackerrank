@@ -55,7 +55,10 @@ public class Day1InterQuartileRange {
 
         return r;
     }
-
+    /**
+    * Spliting an array half way, if an odd array, do not return the middle element. 
+    * Not this is not a fair split.
+    **/
     public static ArrayList<Integer> split(ArrayList<Integer> parent, boolean up) {
 
         ArrayList<Integer> child = new ArrayList<>();
